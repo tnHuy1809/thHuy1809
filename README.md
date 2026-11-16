@@ -104,4 +104,4 @@ Mình thích biến ý tưởng thành code, học những công nghệ mới v�
 
 <br/>
 
-<img src="assets/footer.svg" alt="Không ngừng tiến lên, mỗi dòng code đều là một bước khám phá mới." width="100%" />
+<img src="footer.svg" alt="Không ngừng tiến lên, mỗi dòng code đều là một bước khám phá mới." width="100%" />
