@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Huy's Orbit – hố đen với đĩa bồi tụ phát sáng" width="100%" />
+<img src="hero.svg" alt="Huy's Orbit – hố đen với đĩa bồi tụ phát sáng" width="100%" />
 
 <br/>
 
@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="assets/section-about.svg" alt="Giới thiệu" width="100%" />
+<img src="section-about.svg" alt="Giới thiệu" width="100%" />
 
 Xin chào! Mình là **Huy**, một lập trình viên đang khám phá không gian công nghệ và xây dựng những sản phẩm có ích, sáng tạo và có tính ứng dụng thực tế.
 Mình thích biến ý tưởng thành code, học những công nghệ mới và phát triển bản thân qua từng dự án.
@@ -24,10 +24,10 @@ Mình thích biến ý tưởng thành code, học những công nghệ mới v�
 
 <br/>
 
-<img src="assets/section-stack.svg" alt="Hành trang" width="100%" />
+<img src="section-stack.svg" alt="Hành trang" width="100%" />
 
 <div align="center">
-  <img src="assets/orbit-stack.svg" alt="Tech stack quay quanh hố đen: HTML, CSS, JavaScript, TypeScript, React, Tailwind, Node.js, Python, Java, C#, MySQL, PostgreSQL, MongoDB, Git, Docker, VS Code" width="100%" />
+  <img src="orbit-stack.svg" alt="Tech stack quay quanh hố đen: HTML, CSS, JavaScript, TypeScript, React, Tailwind, Node.js, Python, Java, C#, MySQL, PostgreSQL, MongoDB, Git, Docker, VS Code" width="100%" />
 </div>
 
 <table align="center">
@@ -64,7 +64,7 @@ Mình thích biến ý tưởng thành code, học những công nghệ mới v�
 
 <br/>
 
-<img src="assets/section-mission.svg" alt="Nhiệm vụ hiện tại" width="100%" />
+<img src="section-mission.svg" alt="Nhiệm vụ hiện tại" width="100%" />
 
 - 🛰️ Tìm hiểu và áp dụng các công nghệ hiện đại
 - 🪐 Phát triển các dự án cá nhân có tính thực tế
@@ -73,7 +73,7 @@ Mình thích biến ý tưởng thành code, học những công nghệ mới v�
 
 <br/>
 
-<img src="assets/section-signals.svg" alt="Tín hiệu từ GitHub" width="100%" />
+<img src="section-signals.svg" alt="Tín hiệu từ GitHub" width="100%" />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tnHuy1809&show_icons=true&hide_border=true&bg_color=000000&title_color=FFB347&text_color=D9D4F0&icon_color=7B61FF&ring_color=FF6A1F" alt="GitHub Stats" width="48%" />
@@ -94,7 +94,7 @@ Mình thích biến ý tưởng thành code, học những công nghệ mới v�
 
 <br/>
 
-<img src="assets/section-contact.svg" alt="Liên lạc" width="100%" />
+<img src="section-contact.svg" alt="Liên lạc" width="100%" />
 
 - GitHub: [@tnHuy1809](https://github.com/tnHuy1809)
 <!-- Bỏ comment và điền thông tin của bạn:
