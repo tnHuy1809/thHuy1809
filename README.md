@@ -86,9 +86,9 @@ Mình thích biến ý tưởng thành code, học những công nghệ mới v�
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tnHuy1809/tnHuy1809/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tnHuy1809/tnHuy1809/osnake-light.svg" />
-    <img alt="contribution" src="https://raw.githubusercontent.com/tnHuy1809/tnHuy1809/snake-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tnHuy1809/tnHuy1809/section-mission.svg.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tnHuy1809/tnHuy1809/section-mission.svg" />
+    <img alt="contribution" src="https://raw.githubusercontent.com/tnHuy1809/tnHuy1809/section-mission.svg.svg" width="100%" />
   </picture>
 </div>
 
